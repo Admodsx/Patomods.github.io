@@ -1,5 +1,5 @@
 <header>
-<h1><img src="minecraft-logo.png" alt="Logo" width="50" height="50">Patomods Server Modpack</h1>
+<h1><img src="minecraft-logo.png" alt="Logo" width="50" height="50"> Patomods Server Modpack</h1>
   <h2>Best Mods List:</h2>
   DamageIndicatorsMod<br />
   Treecapitator<br />
@@ -15,7 +15,7 @@
   NotEnoughItems<br />
   Roguelike Dungeons<br />
 <h2>How to install:</h2>
-  <video src="mods_install.mp4" width="640" height="400" controls preload></video>
+  <video src="mods_install.mp4" width="960" height="600" controls preload></video>
 <h2>Downloads</h2>
   --- Please disable your antivirus before installation (only if you choose Self-Installer) ---<br />
   <a href="Modpack-Installer.exe">Modpack Self-Installer</a><br />
