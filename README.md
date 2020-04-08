@@ -16,9 +16,9 @@
   Roguelike Dungeons<br />
 <h2>How to install:</h2>
   <h3>Self-Installer</h3><br />
-  <video src="mods_install.mp4" width="960" height="600" controls preload></video><br />
+  <video src="mods_install.mp4" width="320" height="200" controls preload></video><br />
   <h3>Forge</h3><br />
-  <video src="forge_install.mp4" width="960" height="600" controls preload></video><br />
+  <video src="forge_install.mp4" width="320" height="200" controls preload></video><br />
 <h2>Downloads</h2>
   --- Please disable your antivirus before installation (only if you choose Self-Installer) ---<br />
   <a href="Modpack-Installer.exe">Modpack Self-Installer</a><br />
