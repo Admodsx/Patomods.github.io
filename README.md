@@ -1,4 +1,4 @@
-<img src="minecraft-logo.png" alt="Logo"><title>"PatoMods"</title><br />
+<img src="minecraft-logo.png" alt="Logo" width="100" height="100"><br />
 <header>
 <h1>Patomods Server Modpack</h1>
   <img src="pmp-hero-minecraft.jpg" alt="Minecraft"><br />
