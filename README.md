@@ -14,7 +14,10 @@
   MowziesMobs<br />
   NotEnoughItems<br />
   Roguelike Dungeons<br />
+<h2>How to install:</h2>
+  <video src="mods_install.mp4" width="640" height="400" controls preload></video>
 <h2>Downloads</h2>
+  --- Please disable your antivirus before installation (only if you choose Self-Installer) ---<br />
   <a href="Modpack-Installer.exe">Modpack Self-Installer</a><br />
   <a href="Forge.exe">Forge (Official Installer)</a><br />
   <a href="Modpack-files">Modpack Manual installation</a><br />
