@@ -31,5 +31,5 @@
   --- Please disable your antivirus before installation (only if you choose Self-Installer) ---<br />
   <a href="Modpack-Installer.exe">Modpack Self-Installer</a><br />
   <a href="Forge.exe">Forge (Official Installer)</a><br />
-  <a href="Modpack Manual-Install.rar">Modpack Manual installation</a><br />
+  <a href="https://google.com">Modpack Manual installation</a><br />
 </header>
