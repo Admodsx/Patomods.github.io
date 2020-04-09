@@ -21,7 +21,7 @@
   Roguelike Dungeons<br />
   JurassiCraft<br />
   DivineRPG<br />
-  IndustrialCraft<br />
+  TinkersConstruct<br />
 <h2>How to install:</h2>
   <h3>Self-Installer</h3><br />
   <video src="mods_install.mp4" width="320" height="200" controls preload></video><br />
