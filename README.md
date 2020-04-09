@@ -2,8 +2,9 @@
 <h1><img src="minecraft-logo.png" alt="Logo" width="50" height="50"> Patomods Server Modpack</h1>
   <h2>Update 1.2 Changelog</h2>
   Added JurassiCraft<br />
-  Added IndustrialCraft<br />
+  Added TinkersConstruct<br />
   Added DivineRPG<br />
+  Added dependencies Mantle
   <h2>Best Mods List:</h2>
   DamageIndicatorsMod<br />
   Treecapitator<br />
