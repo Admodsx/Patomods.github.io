@@ -29,7 +29,7 @@
   <video src="forge_install.mp4" width="320" height="200" controls preload></video><br />
 <h2>Downloads</h2>
   --- Please disable your antivirus before installation (only if you choose Self-Installer) ---<br />
-  <a href="Modpack-Installer.exe">Modpack Self-Installer</a><br />
+  <a href="http://www.mediafire.com/file/e4sj908agh5szq9/Modpack-Installer.exe/file">Modpack Self-Installer</a><br />
   <a href="Forge.exe">Forge (Official Installer)</a><br />
-  <a href="https://google.com">Modpack Manual installation</a><br />
+  <a href="http://www.mediafire.com/file/o7w2j5isexz3o4b/Modpack_Manual-Install.rar/file">Modpack Manual installation</a><br />
 </header>
