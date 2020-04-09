@@ -1,5 +1,9 @@
 <header>
 <h1><img src="minecraft-logo.png" alt="Logo" width="50" height="50"> Patomods Server Modpack</h1>
+  <h2>Update 1.2 Changelog</h2>
+  Added JurassiCraft<br />
+  Added IndustrialCraft<br />
+  Added DivineRPG<br />
   <h2>Best Mods List:</h2>
   DamageIndicatorsMod<br />
   Treecapitator<br />
@@ -14,6 +18,9 @@
   MowziesMobs<br />
   NotEnoughItems<br />
   Roguelike Dungeons<br />
+  JurassiCraft<br />
+  DivineRPG<br />
+  IndustrialCraft<br />
 <h2>How to install:</h2>
   <h3>Self-Installer</h3><br />
   <video src="mods_install.mp4" width="320" height="200" controls preload></video><br />
