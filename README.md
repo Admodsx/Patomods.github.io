@@ -1,6 +1,10 @@
 <header>
 <h1><img src="minecraft-logo.png" alt="Logo" width="50" height="50"> Patomods Server Modpack</h1>
-  <h2>Update 1.2 Changelog</h2>
+  <h2>Updates</h2>
+  <h3>1.3 Changelog</h3>
+  Deleted TinkersConstruct because it causes lag problems<br />
+  Deleted dependencies
+  <h3>1.2 Changelog</h3>
   Added JurassiCraft<br />
   Added TinkersConstruct<br />
   Added DivineRPG<br />
@@ -21,7 +25,6 @@
   Roguelike Dungeons<br />
   JurassiCraft<br />
   DivineRPG<br />
-  TinkersConstruct<br />
 <h2>How to install:</h2>
   <h3>Self-Installer</h3><br />
   <video src="mods_install.mp4" width="320" height="200" controls preload></video><br />
