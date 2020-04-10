@@ -28,6 +28,8 @@
 <h2>How to install:</h2>
   <h3>Self-Installer</h3><br />
   <video src="mods_install.mp4" width="320" height="200" controls preload></video><br />
+  <h3>Manual</h3><br />
+  <video src="manual_install.mp4" width="320" height="200" controls preload></video><br />
   <h3>Forge</h3><br />
   <video src="forge_install.mp4" width="320" height="200" controls preload></video><br />
 <h2>Downloads</h2>
