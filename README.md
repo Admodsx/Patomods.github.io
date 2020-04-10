@@ -32,6 +32,7 @@
   <video src="forge_install.mp4" width="320" height="200" controls preload></video><br />
 <h2>Downloads</h2>
   --- Please disable your antivirus before installation (only if you choose Self-Installer) ---<br />
+  <br />
   <a href="https://github.com/Patomods/Patomods.github.io/releases/download/v1.3/Modpack-Installer-v1.3.exe">Modpack Self-Installer</a><br />
   <a href="Forge.exe">Forge (Official Installer)</a><br />
   <a href="https://github.com/Patomods/Patomods.github.io/releases/download/v1.3/Modpack.Manual-Install-v1.3.rar">Modpack Manual installation</a><br />
